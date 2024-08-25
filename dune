@@ -1,0 +1,3 @@
+(executable
+  (name md)
+  (libraries omd))
