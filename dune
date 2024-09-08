@@ -1,3 +1,7 @@
 (executable
   (name md)
   (libraries omd))
+
+(executable
+  (name tpl)
+  (libraries liquid_ml yojson))
